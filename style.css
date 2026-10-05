@@ -44,8 +44,8 @@ body::after{content:'';position:fixed;inset:0;pointer-events:none;z-index:0;back
   width: 16px;
   height: 16px;
   background-color: var(--accent);
-  -webkit-mask-image: url("/assets/flame.svg");
-  mask-image: url("/assets/flame.svg");
+  -webkit-mask-image: url("assets/flame.svg");
+  mask-image: url("assets/flame.svg");
   -webkit-mask-repeat: no-repeat;
   mask-repeat: no-repeat;
   -webkit-mask-position: center;
